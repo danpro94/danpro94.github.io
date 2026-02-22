@@ -20,6 +20,13 @@ author:
   name: 윤두용
   url: https://github.com/danpro94
 
+social:
+  name: 윤두용
+  email:""
+  links:
+    - https://github.com/danpro94
+    - https://www.linkedin.com/in/dooyong-yoon-%EC%9C%A4%EB%91%90%EC%9A%A9-9692b818b/
+
 github:
   username: danpro94
 
@@ -77,7 +84,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+# avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
